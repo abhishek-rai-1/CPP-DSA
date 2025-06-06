@@ -11,7 +11,7 @@ int main(){
         for(int space = 1; space <= n - row; space++)
             cout<<"  ";
         for(int star = 1; star <= row; star++)
-            cout<<"*";
+            cout<<"* ";
         cout<<endl;
     }
 }
