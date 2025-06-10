@@ -3,8 +3,8 @@
 using namespace std;
 
 int Difference (vector<int>v, int target){
-    
-    sort(v.begin(), v.end());
+
+    // sort(v.begin(), v.end());
 
     int start = 0, end = 1;
 
